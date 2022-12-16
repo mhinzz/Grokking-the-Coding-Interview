@@ -8,7 +8,7 @@ Grokking the Coding Interview equivalent questions on Leetcode
 		* https://leetcode.com/problems/maximum-subarray/
 	- Smallest Subarray with a given sum (easy)
 		* https://leetcode.com/problems/minimum-size-subarray-sum/
-	- Longest Substring with K Distinct Characters (medium)
+	- Longest Substring with K Distinct Characters (medium) *
 		* https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
 	- Fruits into Baskets (medium)
 		* https://leetcode.com/problems/fruit-into-baskets/
