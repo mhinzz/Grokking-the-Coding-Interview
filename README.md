@@ -207,7 +207,7 @@ Grokking the Coding Interview equivalent questions on Leetcode
 		* https://leetcode.com/problems/single-number-iii/
 	- Complement of Base 10 Number (medium)
 		* https://leetcode.com/problems/complement-of-base-10-integer/
-	- Problem Challenge 1
+	- Problem Challenge 1 - Flipping an Image
 		* https://leetcode.com/problems/flipping-an-image/
 
 * ## 13. Pattern: Top 'K' elements
