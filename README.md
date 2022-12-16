@@ -73,13 +73,13 @@ Grokking the Coding Interview equivalent questions on Leetcode
 		* https://leetcode.com/problems/insert-interval/
 	- Intervals Intersection (medium)
 		* https://leetcode.com/problems/interval-list-intersections/
-	- Conflicting Appointments (medium)
+	- Conflicting Appointments (medium) *
 		* https://leetcode.com/problems/meeting-rooms/
-	- Problem Challenge 1 - Minimum Meeting Rooms (hard)
+	- Problem Challenge 1 - Minimum Meeting Rooms (hard) *
 		* https://leetcode.com/problems/meeting-rooms-ii/
 	- Problem Challenge 2 - Maximum CPU Load (hard)
 		* https://leetcode.com/problems/maximum-profit-in-job-scheduling/
-	- Problem Challenge 3 - Employee Free Time (hard)
+	- Problem Challenge 3 - Employee Free Time (hard) *
 		* https://leetcode.com/problems/employee-free-time/
 
 * ## 5. Pattern: Cyclic Sort
