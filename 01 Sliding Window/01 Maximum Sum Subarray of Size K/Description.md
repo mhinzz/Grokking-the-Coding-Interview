@@ -9,7 +9,9 @@
 - dynamic-programming
 
 ## Companies
-bloomberg | linkedin | microsoft
+- bloomberg 
+- linkedin 
+- microsoft
 
 # Problem
 Given an integer array nums, find the subarray which has the largest sum and return its sum.

@@ -10,7 +10,10 @@
 - sliding-window
 
 ## Companies
-adobe | amazon | bloomberg | yelp
+- adobe
+- amazon
+- bloomberg
+- yelp
 
 # Problem
 Given a string s, find the length of the longest substring without repeating characters.
