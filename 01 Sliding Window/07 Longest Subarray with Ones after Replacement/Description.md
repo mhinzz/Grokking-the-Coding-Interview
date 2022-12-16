@@ -35,12 +35,14 @@ Return the size of the longest non-empty subarray containing only 1's in the res
 
 # Tests
 ## Case 1
-Input nums = [1,1,1,0,0,0,1,1,1,1,0], k = 2
-Output 6
+- Input nums = [1,1,1,0,0,0,1,1,1,1,0], k = 2
+- Output 6
+- Expected 6
 
 ## Case 2
-Input nums = [0,0,1,1,0,0,1,1,1,0,1,1,0,0,0,1,1,1,1], k = 3
-Output 10
+- Input nums = [0,0,1,1,0,0,1,1,1,0,1,1,0,0,0,1,1,1,1], k = 3
+- Output 10
+- Expected 10
 
 # Stats
 - Runtime 164 ms

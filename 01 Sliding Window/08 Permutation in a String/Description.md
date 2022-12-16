@@ -29,12 +29,14 @@ In other words, return true if one of s1's permutations is the substring of s2.
 
 # Tests
 ## Case 1
-Input s1 = "ab", s2 = "eidbaooo"
-Output true
+- Input s1 = "ab", s2 = "eidbaooo"
+- Output true
+- Expected true
 
 ## Case 2
-Input s1 = "ab", s2 = "eidboaoo"
-Output false
+- Input s1 = "ab", s2 = "eidboaoo"
+- Output false
+- Expected false
 
 # Stats
 - Runtime 82 ms

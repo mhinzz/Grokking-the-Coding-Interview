@@ -23,8 +23,9 @@ Return the length of the longest substring containing the same letter you can ge
 ## Example 2:
 - Input: s = "AABABBA", k = 1
 - Output: 4
-- Explanation: Replace the one 'A' in the middle with 'B' and form "AABBBBA".
-- The substring "BBBB" has the longest repeating letters, which is 4.
+- Explanation: 
+	- Replace the one 'A' in the middle with 'B' and form "AABBBBA".
+	- The substring "BBBB" has the longest repeating letters, which is 4.
  
 
 ## Constraints:
@@ -36,10 +37,12 @@ Return the length of the longest substring containing the same letter you can ge
 ## Case 1:
 - Input s = "ABAB", k = 2
 - Output 4
+- Expected 4
 
 ## Case 2:
 - Input s = "AABABBA", k = 1
 - Output 4
+- Expected 4
 
 # Stats
 - Runtime 65 ms
