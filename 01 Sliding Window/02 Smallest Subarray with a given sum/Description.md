@@ -1,6 +1,6 @@
 # Minimum Size Subarray Sum
 | Category | Difficulty | Likes | Dislikes
-| -------- | ---------- | ---------- | --------
+| -------- | ---------- | ----- | --------
 | algorithms | Medium (44.60%) | 8382 | 234
 
 ## Tags

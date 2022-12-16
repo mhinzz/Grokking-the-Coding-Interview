@@ -1,6 +1,6 @@
 # Maximum Subarray
 | Category | Difficulty | Likes | Dislikes
-| -------- | ---------- | ---------- | --------
+| -------- | ---------- | ----- | --------
 | algorithms | Medium (50.10%) | 26856 | 1203
 
 ## Tags
