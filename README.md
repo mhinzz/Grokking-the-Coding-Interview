@@ -123,11 +123,11 @@ Grokking the Coding Interview equivalent questions on Leetcode
 		* https://leetcode.com/problems/average-of-levels-in-binary-tree/
 	- Minimum Depth of a Binary Tree (easy) 
 		* https://leetcode.com/problems/minimum-depth-of-binary-tree/
-	- Level Order Successor (easy)
+	- Level Order Successor (easy) * 
 		* https://leetcode.com/problems/inorder-successor-in-bst/
 	- Connect Level Order Siblings (medium)
 		* https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
-	- Problem Challenge 1 - Connect All Level Order Siblings (medium)
+	- Problem Challenge 1 - Connect All Level Order Siblings (medium) *
 		* Next question is the same, but connect end nodes to the next level instead of null
 	- Problem Challenge 2 - Right View of a Binary Tree (easy) 
 		* https://leetcode.com/problems/binary-tree-right-side-view/
@@ -139,7 +139,7 @@ Grokking the Coding Interview equivalent questions on Leetcode
 		* https://leetcode.com/problems/path-sum-ii/
 	- Sum of Path Numbers (medium)
 		* https://leetcode.com/problems/sum-root-to-leaf-numbers/
-	- Path With Given Sequence (medium)
+	- Path With Given Sequence (medium) *
 		* https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/
 	- Count Paths for a Sum (medium)
 		* https://leetcode.com/problems/path-sum-iii/
@@ -153,7 +153,7 @@ Grokking the Coding Interview equivalent questions on Leetcode
 		* https://leetcode.com/problems/find-median-from-data-stream/
 	- Sliding Window Median (hard)
 		* https://leetcode.com/problems/sliding-window-median/
-	- Maximize Capital (hard)
+	- Maximize Capital (hard) * 
 		* https://leetcode.com/problems/ipo/
 	- Problem Challenge 1 - Next Interval (hard) 
 		* https://leetcode.com/problems/find-right-interval/
@@ -169,7 +169,7 @@ Grokking the Coding Interview equivalent questions on Leetcode
 		* https://leetcode.com/problems/letter-case-permutation/
 	- Balanced Parentheses (hard)
 		* https://leetcode.com/problems/generate-parentheses/
-	- Unique Generalized Abbreviations (hard)
+	- Unique Generalized Abbreviations (hard) *
 		* https://leetcode.com/problems/generalized-abbreviation/
 	- Problem Challenge 1 - Evaluate Expression (hard)
 		* https://leetcode.com/problems/different-ways-to-add-parentheses/
@@ -187,7 +187,7 @@ Grokking the Coding Interview equivalent questions on Leetcode
 		* https://leetcode.com/problems/find-smallest-letter-greater-than-target/
 	- Number Range (medium)
 		* https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
-	- Search in a Sorted Infinite Array (medium)
+	- Search in a Sorted Infinite Array (medium) *
 		* https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/
 	- Minimum Difference Element (medium)
 		* https://leetcode.com/problems/find-k-closest-elements/
@@ -244,13 +244,13 @@ Grokking the Coding Interview equivalent questions on Leetcode
 * ## 14. Pattern: K-way merge
 	- Merge K Sorted Lists (medium)
 		* https://leetcode.com/problems/merge-k-sorted-lists/
-	- Kth Smallest Number in M Sorted Lists (Medium) 
+	- Kth Smallest Number in M Sorted Lists (Medium) *
 		* Same as previous, but return the Kth smallest number
 	- Kth Smallest Number in a Sorted Matrix (Hard)
 		* https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
 	- Smallest Number Range (Hard)
 		* https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/
-	- Problem Challenge 1 - K Pairs with Largest Sums (Hard) 
+	- Problem Challenge 1 - K Pairs with Largest Sums (Hard) *
 		* https://leetcode.com/problems/find-k-pairs-with-smallest-sums/
 
 * ## 15. Pattern: 0/1 Knapsack
@@ -262,15 +262,15 @@ Grokking the Coding Interview equivalent questions on Leetcode
 	- Subset Sum (medium)
 		* https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews/3j64vRY6JnR
 		* https://leetcode.com/problems/subarray-sum-equals-k/
-	- Minimum Subset Sum Difference (hard)
+	- Minimum Subset Sum Difference (hard) *
 		* https://leetcode.com/problems/last-stone-weight-ii/ 
 		* https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/
-	- Problem Challenge 1 - Count of Subset Sum (hard) 
+	- Problem Challenge 1 - Count of Subset Sum (hard) *
 		* https://leetcode.com/problems/combination-sum-ii/
 		* https://leetcode.com/problems/combination-sum-iv/
 	- Problem Challenge 2 - Target Sum (hard) 
 		* https://leetcode.com/problems/target-sum/
-	- BONUS : Not in grokking, but still useful 
+	- BONUS : Not in grokking, but still useful *
 		* https://leetcode.com/problems/ones-and-zeroes/
 
 * ## 16. Pattern: Topological Sort
@@ -282,9 +282,9 @@ Grokking the Coding Interview equivalent questions on Leetcode
 		* https://leetcode.com/problems/course-schedule-ii/ 
 	- All Tasks Scheduling Orders (hard)
 		* Same as above, but return all instead of any
-	- Alien Dictionary (hard) 
+	- Alien Dictionary (hard) *
 		* https://leetcode.com/problems/alien-dictionary/
-	- Problem Challenge 1 - Reconstructing a Sequence (hard)
+	- Problem Challenge 1 - Reconstructing a Sequence (hard) *
 		* https://leetcode.com/problems/sequence-reconstruction/
 	- Problem Challenge 2 - Minimum Height Trees (hard)
 		* https://leetcode.com/problems/minimum-height-trees/
@@ -299,4 +299,4 @@ Grokking the Coding Interview equivalent questions on Leetcode
 	- https://leetcode.com/problems/binary-search-tree-iterator/
 
 
-Credit to [aditya109](https://github.com/aditya109) for compiling this list.
+Credit to [aditya109](https://github.com/aditya109) for help compiling this list.
